@@ -33,6 +33,6 @@ print(message)
 
 ### 🧑‍💻 Author
 
-Omkar Pawar
+Omkar Pawar <br>
 omkarpawar2002
 
