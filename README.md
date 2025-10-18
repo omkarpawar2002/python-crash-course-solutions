@@ -34,5 +34,5 @@ print(message)
 ### 🧑‍💻 Author
 
 Omkar Pawar
-Learning Python one chapter at a time.
-🔗 GitHub Profile
+omkarpawar2002
+
