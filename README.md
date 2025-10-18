@@ -31,19 +31,8 @@ message = f"Hello {name.title()}, would you like to learn some Python today?"
 print(message)
 ```
 
-## 📘 About This Repository
+### 🧑‍💻 Author
 
-This project contains all my code and notes from each chapter of the book.
-Each chapter is organized into its own folder for clarity:
-
-python-crash-course-solutions/
-│
-├── chapter_02_variables/
-│   ├── exercise_2_1_simple_message.py
-│   ├── exercise_2_2_simple_messages.py
-│   ├── ...
-│
-└── (More chapters coming soon)
-
-age = f"Hello {name.title()}, would you like to learn some Python today?"
-print(message)
+Omkar Pawar
+Learning Python one chapter at a time.
+🔗 GitHub Profile
