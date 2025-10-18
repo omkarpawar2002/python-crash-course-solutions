@@ -31,8 +31,7 @@ message = f"Hello {name.title()}, would you like to learn some Python today?"
 print(message)
 ```
 
-### 🧑‍💻 Author
-## Omkar Pawar 
-```
-omkarpawar2002
-```
+## 🙋‍♂️ Author
+
+**Omkar Pawar**  
+[GitHub](https://github.com/omkarpawar2002)
