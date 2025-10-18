@@ -32,7 +32,7 @@ print(message)
 ```
 
 ### 🧑‍💻 Author
-
+```
 Omkar Pawar <br>
 omkarpawar2002
-
+```
