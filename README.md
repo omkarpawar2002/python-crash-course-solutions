@@ -12,6 +12,7 @@ This repository documents my journey as I learn Python — solving one chapter a
 | 02 | Variables and Simple Data Types | ✅ Completed |
 | 03 | Introducing Lists | ✅ Completed |
 | 04 | Working with Lists | ✅ Completed |
+| 05 | If Statement | ✅ Completed |
 
 ---
 
