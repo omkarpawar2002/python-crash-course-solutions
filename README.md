@@ -13,6 +13,7 @@ This repository documents my journey as I learn Python — solving one chapter a
 | 03 | Introducing Lists | ✅ Completed |
 | 04 | Working with Lists | ✅ Completed |
 | 05 | If Statement | ✅ Completed |
+| 06 | Dictionary | ✅ Completed |
 
 ---
 
