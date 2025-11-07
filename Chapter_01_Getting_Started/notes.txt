@@ -1,0 +1,3 @@
+If we want to run the python file on IDE terminal then hit the command 
+
+python file_name.py
