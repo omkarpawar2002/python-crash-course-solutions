@@ -9,6 +9,7 @@ This repository documents my journey as I learn Python — solving one chapter a
 
 | Chapter | Topic | Status |
 |----------|--------|--------|
+| 01 | Getting Started | ✅ Completed |
 | 02 | Variables and Simple Data Types | ✅ Completed |
 | 03 | Introducing Lists | ✅ Completed |
 | 04 | Working with Lists | ✅ Completed |
